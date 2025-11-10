@@ -28,10 +28,6 @@ Each folder represents one course area — integrating theory, data, and communi
 - [Qualitative Methods](./Research_Methods/Qualitative/)
 - [Mixed Methods](./Research_Methods/Mixed_Methods/)
 
-#### 5. Demography and Community Development
-- [Syllabus](./Demography/Syllabus.pdf)
-- [Applied Projects](./Demography/Applied_Projects/)
-
 ---
 
 ### 📂 Repository Structure

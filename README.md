@@ -1,66 +1,71 @@
-# Teaching and Curriculum  
-Curated by **Dr. Fariborz Aref**
+# SociologyTeachingHub
+
+**Course Materials for Research Methods and the Sociological Imagination**
+
+Fariborz Aref, PhD · [fariborzaref.com](https://fariborzaref.com) · ORCID [0000-0001-6622-1824](https://orcid.org/0000-0001-6622-1824)
 
 ---
 
-### Overview
-This repository contains university-level teaching materials, including syllabi, assignments, and lecture modules from undergraduate and graduate sociology courses.  
-Each folder represents one course area — integrating theory, data, and community-based learning.
+## Purpose
+
+Mills wrote that the sociological imagination is the capacity to connect private troubles to public issues. Teaching sociology is the craft of building that capacity in students who arrive with the troubles but not yet the tools, and it deserves the same rigor, documentation, and revision that research receives.
+
+This repository holds the teaching materials behind my undergraduate courses in sociology and research methods. It exists for three audiences: students in my courses, who will find syllabi and course documents here; instructors elsewhere, who are welcome to adapt these materials with attribution; and anyone interested in how statistical reasoning and sociological thinking can be taught together rather than in sequence.
+
+It is the pedagogical companion to four research repositories: [QuantitativeSocietyLab](https://github.com/fariborzaref/QuantitativeSocietyLab), [QualitativeSocietyLab](https://github.com/fariborzaref/QualitativeSocietyLab), [ComputationalSociologyHub](https://github.com/fariborzaref/ComputationalSociologyHub), and [MixedMethodsSocietyLab](https://github.com/fariborzaref/MixedMethodsSocietyLab). The methods taught here are the methods practiced there.
+
+## Course Portfolio
+
+Materials are organized by course and released as each course is taught and its documents are prepared for sharing. Courses without posted materials are listed to show the scope of the catalog; their folders will follow.
+
+**Foundations of Sociology.** The classical questions, Marx, Weber, Durkheim, Du Bois, taught as live instruments for reading the present rather than as museum pieces.
+
+**Social Problems.** Private troubles traced to public issues: poverty, housing, health, and work, each examined through evidence students learn to evaluate themselves.
+
+**Social Inequality.** Cross-national and historical patterns of income, wealth, health, and opportunity, paired with data modules drawn from the research in the companion repositories.
+
+**Social Theory.** Classical texts and contemporary debates on structure, agency, and modernity, with an emphasis on reading theory as argument rather than doctrine.
+
+**Social Statistics.** Statistical reasoning for sociologists, built around R tutorials and exercises in which the technique is always subordinate to the question.
+
+**Research Methods and Applied Statistics.** A scaffolded research-proposal course integrating quantitative, qualitative, and mixed designs, with a disclosure-based policy on student use of AI written for the present moment of higher education.
+
+**Community Development and Sustainability.** Policy design and local institutions, connecting sociological analysis to applied and field-based practice.
+
+**Sociology of Health and Inequality.** The social gradient in health, taught through comparative data and analysis exercises.
+
+## What Is Shared, and What Is Not
+
+Materials appear here only where I hold the rights to share them: syllabi, assignment guides, rubrics, original tutorials, and teaching modules. Student work never appears in this repository under any circumstances. Copyrighted readings and textbook materials are cited, not reproduced; classic texts are included only where they are in the public domain. Datasets are shared only under their own licenses, or replaced with documented instructions for access.
+
+## Planned Architecture
+
+```
+/Foundations_of_Sociology
+/Social_Problems
+/Social_Inequality
+/Social_Theory
+/Social_Statistics
+/Research_Methods_Statistics
+/Community_Development
+/Sociology_of_Health
+```
+
+Each course folder will contain its syllabus, assignment guides, and teaching modules as they are prepared. Links are added only when the files exist.
+
+## Related Work
+
+The full course catalog is described on the [Courses page](https://fariborzaref.github.io) of my academic site. The reasoning behind this approach to methods instruction is developed in *The Structure of Social Inquiry: Research Design, Evidence, and Explanation* (in preparation).
+
+## License
+
+Materials are released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): instructors may adapt and reuse for non-commercial teaching with attribution, sharing derivatives under the same terms.
+
+## Citation
+
+Aref, F. (2026). *SociologyTeachingHub: Course materials for research methods and the sociological imagination*. GitHub. https://github.com/fariborzaref/SociologyTeachingHub
 
 ---
 
-### 📘 Course Portfolio
-
-#### 1. Foundations of Sociology
-- [Syllabus](./Foundations_of_Sociology/Syllabus.pdf)
-- [Assignments](./Foundations_of_Sociology/Assignments.pdf)
-- [Lecture Notes](./Foundations_of_Sociology/Lectures/)
-
-#### 2. Social Problems
-- [Syllabus](./Social_Problems/Syllabus.pdf)
-- [Lecture Slides](./Social_Problems/Lecture_Slides/)
-- [Student Projects](./Social_Problems/Projects/)
-
-#### 3. Social Inequality
-- [Syllabus](./Social_Inequality/Syllabus.pdf)
-- [Case Studies](./Social_Inequality/Case_Studies/)
-- [Data Modules](./Social_Inequality/Data_Modules/)
-
-#### 4. Social Theory
-- [Syllabus](./Social_Theory/Syllabus.pdf)
-- [Classic Texts & Interpretations](./Social_Theory/Classics/)
-- [Contemporary Debates](./Social_Theory/Contemporary/)
-
-#### 5. Social Statistics
-- [Syllabus](./Social_Statistics/Syllabus.pdf)
-- [R Tutorials](./Social_Statistics/R_Tutorials/)
-- [Datasets](./Social_Statistics/Data/)
-
-#### 6. Research Methods and Statistics
-- [Quantitative Modules](./Research_Methods_Statistics/Quantitative/)
-- [Qualitative Modules](./Research_Methods_Statistics/Qualitative/)
-- [Mixed-Methods Design](./Research_Methods_Statistics/Mixed_Methods/)
-
-#### 7. Community Development and Sustainability
-- [Syllabus](./Community_Development/Syllabus.pdf)
-- [Applied Field Projects](./Community_Development/Projects/)
-
-#### 8. Sociology of Health and Inequality
-- [Syllabus](./Sociology_of_Health/Syllabus.pdf)
-- [Data Analysis Exercises](./Sociology_of_Health/Exercises/)
-
----
-
-### 📂 Repository Structure
-
-
----
-
-### Notes
-All materials are designed for undergraduate and graduate audiences with an emphasis on **critical reasoning**, **data literacy**, and **societal relevance**.  
-Each course combines empirical analysis with conceptual depth, reflecting Dr. Aref’s commitment to advancing sociological education and public understanding.
-
----
-
-©Fariborz Aref · Teaching and Curriculum
+§
 
